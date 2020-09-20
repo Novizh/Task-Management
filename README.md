@@ -42,6 +42,7 @@ pip install datetime
 
 # Execution
 To run the application type these in the terminal
+
 . venv/bin/activate
 
 export FLASK_APP=api.py
