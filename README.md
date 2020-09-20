@@ -41,7 +41,8 @@ pip install PyJWT
 pip install datetime
 
 # Execution
-To run ths application type these in the terminal
+To run the application type these in the terminal
+. venv/bin/activate
 
 export FLASK_APP=api.py
 
