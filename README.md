@@ -3,6 +3,7 @@ A simple Task Management backend application using Flask
 
 # Setup
 These are the packages you need to install before running this application
+
 pip install flask
 
 pip install flask_sqlalchemy
